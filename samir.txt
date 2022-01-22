@@ -1,1 +1,2 @@
-Hi this is a git and githuib session
+Hi This is a git and githuib session
+changes are made
